@@ -1,1 +1,11 @@
 # ML-Algorithms
+->Regression
+              ->Linear Regression
+              ->Multiple Linear Regression
+              ->Polynomial Regression
+              ->Decision Tree Regression
+              ->Random Forest Algorithm
+              ->Cross Validation
+              ->Grid Search
+->Classification
+               ->Logistic Regression
