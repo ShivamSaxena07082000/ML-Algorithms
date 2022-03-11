@@ -9,3 +9,5 @@
               ->Grid Search
 ->Classification
                ->Logistic Regression
+               -> Naive Bayes
+               ->Features Selection
